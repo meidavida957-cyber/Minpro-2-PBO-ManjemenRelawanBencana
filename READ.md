@@ -757,25 +757,3 @@ Mata Kuliah: Pemrograman Berorientasi Objek
 Mini Project: 2
 
 Program: Sistem Manajemen Relawan Bencana
-
-### Ini sudah lebih lengkap
-
-Versi ini sudah menjelaskan **dari awal sampai akhir**, termasuk:
-
-- tujuan program
-- fitur
-- alur
-- struktur package
-- fungsi setiap class
-- MVC
-- encapsulation
-- inheritance
-- polymorphism
-- ArrayList
-- dummy data
-- validasi
-- pengembangan dari MinPro 1
-- contoh penggunaan
-- teknologi
-- cara menjalankan
-- identitas
