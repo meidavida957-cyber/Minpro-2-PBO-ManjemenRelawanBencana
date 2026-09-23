@@ -139,7 +139,7 @@ Jika tersedia, relawan akan disimpan sebagai relawan yang ditempatkan pada benca
 
 Contoh:
 
-
+```text
 ID Relawan : R001
 ID Bencana : B001
 
@@ -748,6 +748,10 @@ Identitas
 
 Nama: Meilanie
 
+NIM: 2509116109
+
+Kelas: C
+
 Mata Kuliah: Pemrograman Berorientasi Objek
 
 Mini Project: 2
@@ -775,4 +779,3 @@ Versi ini sudah menjelaskan **dari awal sampai akhir**, termasuk:
 - teknologi
 - cara menjalankan
 - identitas
-
